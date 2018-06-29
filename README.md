@@ -16,6 +16,6 @@ We will mine existing apps using VF-compatible models for ideas and logic. Those
 * [Holodex](https://github.com/holodex/holodex)
 * The original [NRP](https://github.com/valnet/valuenetwork)
 * [OCP](https://github.com/FreedomCoop/valuenetwork) fork of NRP for FairCoop
-* Agent, first app that is truly part of OCE
-* OCE repo
+* [Agent](https://github.com/opencooperativeecosystem/agent), first app that is truly part of OCE
+* [OCE repos](https://github.com/opencooperativeecosystem)
 * [LearnDeep](https://github.com/LearnDeepMilwaukee) fork of NRP + Agent
