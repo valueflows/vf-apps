@@ -14,8 +14,9 @@ We will mine existing apps using VF-compatible models for ideas and logic. Those
 * [Resourceful](https://github.com/valueflows/resourceful)
 * [linked-data-browser](https://github.com/valueflows/linked-data-browser)
 * [Holodex](https://github.com/holodex/holodex)
-* The original [NRP](https://github.com/valnet/valuenetwork)
+* The original [NRP](https://github.com/valnet/valuenetwork) developed with Sensorica.
 * [OCP](https://github.com/FreedomCoop/valuenetwork) fork of NRP for FairCoop
 * [Agent](https://github.com/opencooperativeecosystem/agent), first app that is truly part of OCE
 * [OCE repos](https://github.com/opencooperativeecosystem)
 * [LearnDeep](https://github.com/LearnDeepMilwaukee) fork of NRP + Agent
+* [Sensorica's new fork of NRP for Verdun](https://github.com/Sensorica/VerdunNRP)
