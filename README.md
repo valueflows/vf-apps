@@ -20,3 +20,8 @@ We will mine existing apps using VF-compatible models for ideas and logic. Those
 * [OCE repos](https://github.com/opencooperativeecosystem)
 * [LearnDeep](https://github.com/LearnDeepMilwaukee) fork of NRP + Agent
 * [Sensorica's new fork of NRP for Verdun](https://github.com/Sensorica/VerdunNRP)
+
+## The Apps
+
+By some persuasive demand, the first app will not be an app, but an algorithm that can be made into a module potentially usable by many apps: 
+* **[Traversing the value flows](https://github.com/valueflows/vf-apps-traversing-the-flows).**
