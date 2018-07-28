@@ -28,4 +28,4 @@ These are meant to be requirements, specifications, and ideas for apps, where di
 By some persuasive demand, the first app will not be an app, but an algorithm that can be made into a module potentially usable by many apps: 
 * **[Traversing the value flows](https://github.com/valueflows/vf-apps-traversing-the-flows).**
 
-The central apps will be [the Agent apps](https://github.com/valueflows/vf-apps-agents). All the other apps in the flock will be used by the agents.
+* The central apps will be **[the Agent apps](https://github.com/valueflows/vf-apps-agents)**. All the other apps in the flock will be used by the agents.
