@@ -30,5 +30,7 @@ We will mine existing apps using VF-compatible models for ideas and logic. Those
 These are meant to be requirements, specifications, and ideas for apps, where different people could implement different software that fills the requirements for each app in the flock. But any implementation of any of the apps should be able to work with any other implementation of any of the other apps.
 
 * The central apps will be **[the Agent apps](https://github.com/valueflows/vf-apps-agents)**. All the other apps in the flock will be used by the agents.
-* For example: **[Recipes](https://github.com/valueflows/vf-apps-recipes)** and **[Planning](https://github.com/valueflows/vf-apps-planning)**.
+* For example: 
+    * **[Recipes](https://github.com/valueflows/vf-apps-recipes)**
+    * **[Planning](https://github.com/valueflows/vf-apps-planning)**.
 * **[Traversing the value flows](https://github.com/valueflows/vf-apps-traversing-the-flows).** This is not really an app, but an algorithm that can be made into a module potentially usable by many apps.
