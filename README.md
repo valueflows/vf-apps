@@ -11,8 +11,11 @@ Some work is already underway in each of those protocols. The one that is closes
 
 We will mine existing apps using VF-compatible models for ideas and logic. Those include:
 * the [Vocabulator](https://github.com/valueflows/django-vocabulator)
+* [Vientos](https://vientos.coop/) [code](https://github.com/vientos)
+* [LinkedFarm](http://linked.farm/)
 * [Resourceful](https://github.com/valueflows/resourceful)
 * [linked-data-browser](https://github.com/valueflows/linked-data-browser)
+* [Personator](https://github.com/holodex/personator)
 * [Holodex](https://github.com/holodex/holodex)
 * [Cobuy](https://github.com/root-systems/cobuy)
 * The original [NRP](https://github.com/valnet/valuenetwork) developed with Sensorica.
