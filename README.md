@@ -24,6 +24,7 @@ We will mine existing apps using VF-compatible models for ideas and logic. Those
 * [OCE repos](https://github.com/opencooperativeecosystem)
 * [LearnDeep](https://github.com/LearnDeepMilwaukee) fork of NRP + Agent
 * [Sensorica's new fork of NRP for Verdun](https://github.com/Sensorica/VerdunNRP)
+* [Local economic analysis](http://locecon.org/): same basic model as VF, but to analyze resource flows in communities.
 
 ## The Apps
 
