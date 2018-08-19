@@ -35,3 +35,4 @@ These are meant to be requirements, specifications, and ideas for apps, where di
     * **[Recipes](https://github.com/valueflows/vf-apps-recipes)**
     * **[Planning](https://github.com/valueflows/vf-apps-planning)**.
 * **[Traversing the value flows](https://github.com/valueflows/vf-apps-traversing-the-flows).** This is not really an app, but an algorithm that can be made into a module potentially usable by many apps.
+* **[Mutual Coordination](https://github.com/valueflows/vf-apps-planning/wiki/Mutual-Coordination)** Also not a single app, but a dance between several apps.
